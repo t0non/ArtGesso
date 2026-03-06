@@ -34,7 +34,7 @@ const locations = [
       'https://wa.me/5531996140835?text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20a%20Art%20Gesso.',
     mapsLink:
       'https://www.google.com/maps/search/?api=1&query=Rua%20Humait%C3%A1%2C%20552%20Belo%20Horizonte',
-    image: '/images/Unidade2.jpeg',
+    image: '/images/fachada.jpeg',
   },
 ];
 
